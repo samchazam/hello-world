@@ -1,2 +1,3 @@
 # hello-world
-just testing
+a testing repo
+Just a newb trying to figure this out. 
